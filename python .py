@@ -24,6 +24,7 @@ print(scores[1])//[98.0]
 
 //array('d',[97.0,98.0])
 
+print("dasdsadas")
 
 
 what's the difference between array and lists?
