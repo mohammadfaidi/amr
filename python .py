@@ -1,6 +1,8 @@
 Collections 
 1-List
 
+heere!!
+
 names = ['Christopher','Susan']
 scores = []
 scores.append(98) # add new item to the end
